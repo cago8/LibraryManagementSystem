@@ -1,0 +1,4 @@
+Book Name: Reinforcement Learning, ISBN: 5678901234567, Status: Available
+Book Name: Ruby Programming, ISBN: 3456789012345, Status: Available
+Book Name: Java Programming, ISBN: 1234567890123, Status: Available
+Book Name: Python Programming, ISBN: 2345678901234, Status: On Loan - Borrower: Vahideh, Due Date: 2023-06-10
